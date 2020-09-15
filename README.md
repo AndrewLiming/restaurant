@@ -1,2 +1,2 @@
-# restaurant.html
+# restaurant
 Restaurant Home Page
