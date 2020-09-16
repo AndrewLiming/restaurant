@@ -1,0 +1,25 @@
+body {background-color: palegoldenrod;}
+header, footer {
+    background-color: olive;
+color: ivory;
+text-align: center;
+text-shadow: black;
+}
+li {
+    border: lightgray 1px;
+border-radius: 10px;
+display: inline-block;
+margin: 4px 20px;
+padding: 10px;
+}
+img {border: solid black 1px;
+    border-radius: 10px;
+    width 100px;
+}
+p {color: olive;
+    display: inline-block;
+    width: 400px;
+    margin-top: auto;
+    padding: 20px;
+}
+
